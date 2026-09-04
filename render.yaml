@@ -2,6 +2,7 @@ services:
   - type: web
     name: vanadhikari
     runtime: node
+    rootDir: fra-gis-monitor-dashboard-deploy
     plan: free
     buildCommand: npm install --legacy-peer-deps && npm run build
     startCommand: npm start
