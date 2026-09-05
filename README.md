@@ -13,7 +13,7 @@ VanAdhikar is an interactive monitoring console for exploring synthetic Forest R
 The project is designed as a transparent prototype for a hackathon setting. It does not make legal determinations, does not expose claimant personally identifiable information, and does not treat an anomaly as proof of wrongdoing.
 
 
-[Open the live application](https://vanadhikar.onrender.com)
+[Open the live application](https://vanadhikari.onrender.com/)
 
 
 ---
