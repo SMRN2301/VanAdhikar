@@ -314,6 +314,9 @@ This project is licensed under the MIT License. See the project license file for
 
 ## References
 
+[Ministry of Tribal Affairs](https://tribal.nic.in/fra.aspx)
+[data.gov](https://www.data.gov.in/)
+
 [1]: https://tribal.nic.in/fra.aspx "Ministry of Tribal Affairs — Forest Rights Act"
 [2]: https://www.data.gov.in/ "Open Government Data Platform India — data.gov.in"
 [3]: https://leafletjs.com/ "Leaflet JavaScript library documentation"
